@@ -1,0 +1,31 @@
+{
+  "name": "optimizejsify",
+  "version": "0.1.0",
+  "description": "Browserify transform for optimizejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/creatorrr/optimizejsify.git"
+  },
+  "keywords": [
+    "browserify",
+    "optimizejs"
+  ],
+  "author": "Diwank Singh <diwank.singh@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/creatorrr/optimizejsify/issues"
+  },
+  "homepage": "https://github.com/creatorrr/optimizejsify#readme",
+  "dependencies": {
+    "optimize-js": "^1.0.1",
+    "through2": "^2.0.1"
+  },
+  "devDependencies": {
+    "browserify": "^13.1.0",
+    "mocha": "^3.1.0"
+  }
+}
