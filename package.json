@@ -1,6 +1,6 @@
 {
   "name": "optimizejsify",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Browserify transform for optimizejs",
   "main": "index.js",
   "scripts": {
