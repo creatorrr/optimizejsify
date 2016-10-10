@@ -1,7 +1,6 @@
 var
   assert = require('assert'),
   browserify = require('browserify'),
-  fs = require('fs'),
 
   optimizejsify = require('../'),
   o = optimizejsify,
